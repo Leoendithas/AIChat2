@@ -83,7 +83,7 @@ def get_active_members():
 # Function to call GPT-4 API.
 #==================================================================================
 discussion_topic = """Should students wear school uniforms in school? 
-Come up with 3 reasons as a group to support your stand."""
+Discuss in your group and come up with 3 reasons to support your group's stand."""
 
 def get_gpt_response(conversation_history):
     openai_messages = []
@@ -181,7 +181,7 @@ def export_to_word(messages):
 #==================================================================================
 init_db()
 
-st.title("Shared Multi-User Chat Demo")
+st.title("LEA Teams User Research")
 
 #==================================================================================
 # Front-End Toggle: Enable/Disable API Call after every 5 messages
