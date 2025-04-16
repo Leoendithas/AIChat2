@@ -108,7 +108,7 @@ The discussion topic is {discussion_topic} and there are {active_members} active
 # Completion Steps #
 1. Analyse the chat history and identify key themes.
 2. Based on the chat history, determine which criteria would be the most suitable response to guide the discussion.
-3. Provide guidance by asking two questions or statements based on one of the 6 criteria below. You must not output anything else.
+3. Provide guidance by asking two questions or statements based on the 6 criteria below. You must not output anything else.
 
 Only Output Step 3 in your response.
 
