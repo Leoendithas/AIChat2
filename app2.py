@@ -111,8 +111,6 @@ The discussion topic is {discussion_topic} and there are {active_members} active
 3. Provide guidance by asking two questions based on the 6 criteria below. Include the category at the back in square brackets.
 You must output only 2 questions and nothing else.
 
-Only Output Step 3 in your response.
-
 <criteria>
 6 Criteria and Weightage
 1. No Response 
