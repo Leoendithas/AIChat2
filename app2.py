@@ -82,7 +82,7 @@ def get_active_members():
 #==================================================================================
 # Function to call GPT-4 API.
 #==================================================================================
-discussion_topic = """Should students wear school uniforms in school? 
+discussion_topic = """Should schools require students to wear school uniforms to school? 
 Discuss in your group and come up with 3 reasons to support your group's stand."""
 
 def get_gpt_response(conversation_history):
